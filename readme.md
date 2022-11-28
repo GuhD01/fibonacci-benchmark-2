@@ -5,7 +5,7 @@
 
 ### Fibonnaci is the sequence follows the rule that each number is equal to the sum of the preceding two numbers.
 
-![Alt text](./images/image2.png)
+![Alt text](./Images/image2.png)
 
 ## Iterative and Recursive
 #
@@ -82,7 +82,7 @@ gcc -o main_b_time_iterative.exe main_b_time_iterative.c mylib.o
 
 output:
 
-![Alt text](./images/image5.png)
+![test](./Images/image5.png)
 
 
 ### Recursive
@@ -95,7 +95,7 @@ gcc -o main_b_time_recursive.exe main_b_time_recursive.c mylib.o
 ```
 
 output:
-![Alt text](./images/image4.png)
+![Alt text](./Images/image4.png)
 
 These are tested using the same N which is 30, So, iterative is much more faster with 0.000004 seconds needed to run while recursive method needed 0.018000
 
@@ -113,7 +113,7 @@ gcc -o main_b_space_iterative.exe main_b_space_iterative.c mylib.o
 ```
 
 ## Results (N = 1000):
-![Alt text](./images/image3.jpg)
+![Alt text](./Images/image3.jpg)
 
 These are tested using the same N which is 1000, So, iterative takes lesser space with only 0.4 MB of memory needed to run while recursive method needed 0.7 MB to run
 
